@@ -1,0 +1,16 @@
+var foot_path = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": null, "name": "FOOTPATH", "category": 1, "cat_name": "FOOTPATH", "status": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 124.9801, 10.39093 ], [ 124.98003, 10.39093 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "FOOTPATH", "category": 1, "cat_name": "FOOTPATH", "status": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 124.9801, 10.39131 ], [ 124.98015, 10.39131 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "FOOTPATH", "category": 1, "cat_name": "FOOTPATH", "status": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 124.9801, 10.3913 ], [ 124.98005, 10.39129 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "FOOTPATH", "category": 1, "cat_name": "FOOTPATH", "status": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 124.9801, 10.39095 ], [ 124.98018, 10.39095 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "FOOTPATH", "category": 1, "cat_name": "FOOTPATH", "status": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 124.97952, 10.39048 ], [ 124.97963, 10.39048 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "name": null, "category": 2, "cat_name": "SECONDARY", "status": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 124.97956, 10.39155 ], [ 124.97957, 10.39158 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "FOOTPATH", "category": 3, "cat_name": "FOOTPATH", "status": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 124.97945, 10.39092 ], [ 124.97951, 10.39092 ] ] } },
+{ "type": "Feature", "properties": { "id": 36, "name": "FOOTPATH", "category": 1, "cat_name": "FOOTPATH", "status": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 124.97977, 10.39332 ], [ 124.97977, 10.39319 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "Footpath", "category": 3, "cat_name": "FOOTPATH", "status": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 124.97956, 10.39319 ], [ 124.97959, 10.39333 ], [ 124.98003, 10.39332 ], [ 124.98004, 10.39318 ] ] } }
+]
+}

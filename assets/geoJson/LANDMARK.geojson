@@ -1,0 +1,8 @@
+var land_mark = {
+"type": "FeatureCollection",
+"name": "LANDMARK",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 91, "Name": "PROPOSED MARKER", "Image": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 124.980699, 10.391218 ], [ 124.98067, 10.391302 ], [ 124.980744, 10.391359 ], [ 124.980822, 10.391306 ], [ 124.980794, 10.391218 ], [ 124.980699, 10.391218 ] ] ] ] } }
+]
+}

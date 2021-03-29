@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "OUTDOOR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25395" } },
+"features": [
+
+]
+}
